@@ -1,0 +1,9 @@
+/* box model */
+.sourov{
+  color:red;
+  padding:3%;
+  border:0.5cm solid green;
+  margin:4%;
+  width:14%;
+  float: left;
+}
